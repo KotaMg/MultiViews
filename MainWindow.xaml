@@ -7,8 +7,8 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     x:Name="DashBoardWindow"
     Title="MainWindow"
-    Width="930"
-    Height="580"
+    Width="920"
+    Height="600"
     AllowsTransparency="True"
     Background="Transparent"
     ResizeMode="NoResize"
@@ -16,10 +16,6 @@
     WindowStyle="None"
     mc:Ignorable="d">
 
-    <Grid>
-        
-        
-        
-    </Grid>
+    <Border Background="#272537" CornerRadius="20" />
 
 </Window>
