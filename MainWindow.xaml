@@ -16,6 +16,8 @@
     WindowStyle="None"
     mc:Ignorable="d">
 
-    <Grid />
+    <Grid>
+        <!--  Comment  -->
+    </Grid>
 
 </Window>
